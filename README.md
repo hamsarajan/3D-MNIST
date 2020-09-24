@@ -9,9 +9,9 @@ sci-kit learn
 matplotlib
 ```
 ### Training and Validation accuracy 
-![Accuracy](/images/logo.png)
+![Accuracy](https://github.com/hamsarajan/3D-MNIST/blob/master/Training%20and%20Validation%20accuracy.png)
 ### Training and Validation loss 
-
+![Loss](
 ### Accuracy of the trained model
 The accuracy of the trained model is calculated using the code below:
 ```
