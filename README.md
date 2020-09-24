@@ -8,13 +8,14 @@ keras
 sci-kit learn
 matplotlib
 ```
-### Training and Validation accuracy 
-![Accuracy](https://github.com/hamsarajan/3D-MNIST/blob/master/Training%20and%20Validation%20accuracy.png)
-### Training and Validation loss 
-![Loss](
+### Training and Validation accuracy
+![Accuracy](https://github.com/hamsarajan/3D-MNIST/blob/master/Training%20and%20Validation%20accuracy.png) 
+### Training and Validation loss
+![Loss](https://github.com/hamsarajan/3D-MNIST/blob/master/Training%20and%20Validation%20loss.png)
 
 ## Early Stopping
 From the graphs, it is clear that the model is overfitting and therefore, I used early stopping method to reduce overfitting
+
 ### Training and Validation accuracy and loss after Early Stopping
 ![Accuracy_es](https://github.com/hamsarajan/3D-MNIST/blob/master/Early%20stopping_accuracy.png)
 ![loss_es](https://github.com/hamsarajan/3D-MNIST/blob/master/Early%20stopping_loss.png)
