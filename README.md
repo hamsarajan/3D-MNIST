@@ -12,6 +12,12 @@ matplotlib
 ![Accuracy](https://github.com/hamsarajan/3D-MNIST/blob/master/Training%20and%20Validation%20accuracy.png)
 ### Training and Validation loss 
 ![Loss](
+
+## Early Stopping
+From the graphs, it is clear that the model is overfitting and therefore, I used early stopping method to reduce overfitting
+### Training and Validation accuracy and loss after Early Stopping
+![Accuracy_es](https://github.com/hamsarajan/3D-MNIST/blob/master/Early%20stopping_accuracy.png)
+![loss_es](https://github.com/hamsarajan/3D-MNIST/blob/master/Early%20stopping_loss.png)
 ### Accuracy of the trained model
 The accuracy of the trained model is calculated using the code below:
 ```
